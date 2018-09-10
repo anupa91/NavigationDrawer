@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <!--General Usage-->
+    <!--navigation drawer item labels-->
+    <string name="nav_item_1">Item 1</string>
+    <string name="nav_item_2">Item 2</string>
+    <string name="nav_item_3">Item 3</string>
+    <string name="nav_item_4">Item 4</string>
+    <string name="nav_item_5">Item 5</string>
+    <string name="nav_item_6">Item 6</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_1</item>
+        <item>@string/nav_item_2</item>
+        <item>@string/nav_item_3</item>
+        <item>@string/nav_item_4</item>
+        <item>@string/nav_item_5</item>
+        <item>@string/nav_item_6</item>
+    </string-array>
+
+    <!-- drawer open-close -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--MainActivity-->
+    <string name="main_activity_title">Main Activity</string>
+    <!--End of MainActivity-->
+</resources>
